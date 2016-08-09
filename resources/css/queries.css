@@ -1,0 +1,119 @@
+
+/* Tablets to big tablets */
+
+@media only screen and (max-width: 1200px) {
+    .hero-text-box {
+        width: 100%;
+        padding: 0 2%;
+    }
+    .row {
+        padding: 0 2%;
+    }
+}
+
+
+/* Tablets to big tablets */
+
+@media only screen and (max-width: 1023px) {
+    body {
+        font-size: 18px;
+    }
+    .about-details {
+        width: 80%;
+        margin-left: 10%;
+    }
+    .icon-small {
+        width: 17px;
+        margin-right: 10px;
+    }
+}
+
+
+/* Phones to Tablets */
+
+@media only screen and (max-width: 975px) {
+    body {
+        font-size: 16px;
+    }
+    .row {
+        padding: 0 4%;
+    }
+    .col {
+        width: 100%;
+    }
+    .main-nav {
+        display: none;
+    }
+    .main-nav {
+        float: left;
+        margin-top: 35px;
+        margin-left: 25px;
+    }
+    .main-nav li {
+        display: block;
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        display: block;
+        border: 0;
+        padding: 5px 0;
+        font-size: 100%;
+    }
+    .mobile-nav {
+        display: inline-block;
+    }
+    .sticky .main-nav {
+        margin-top: 10px;
+    }
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited {
+        padding: 10px 0;
+    }
+    .sticky .mobile-nav {
+        margin-top: 10px;
+    }
+    .sticky .mobile-nav i {
+        color: #555;
+    }
+    h1 {
+        font-size: 180%;
+    }
+    h2 {
+        font-size: 150%;
+    }
+    h4 {
+        margin-left: -20px;
+    }
+    .about-details {
+        width: 100%;
+        margin-left: 0%;
+    }
+    .icon-big {
+        font-size: 80%;
+        text-align: center;
+        display: block;
+        margin-bottom: 10px;
+        margin-left: 42%;
+    }
+}
+
+
+/* Small phones */
+
+@media only screen and (max-width: 480px) {
+    .contact-form {
+        width: 100%;
+    }
+    .job-description {
+        font-size: 80%;
+        width: 200%;
+        margin-left: -220px;
+    }
+    .icon-big {
+        font-size: 20%;
+        text-align: center;
+        display: block;
+        margin-bottom: 10px;
+        margin-left: 35%;
+    }
+}
