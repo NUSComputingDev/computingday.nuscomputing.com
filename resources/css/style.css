@@ -473,8 +473,8 @@ header {
 
 .contact-background {
     margin-bottom: 20px;
-    background-image: -webkit-linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg5.jpg);
-    background-image: linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg5.jpg);
+    background-image: -webkit-linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg5.png);
+    background-image: linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg5.png);
     background-size: cover;
     background-position: center;
     height: 60vh;
