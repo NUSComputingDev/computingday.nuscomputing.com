@@ -305,8 +305,8 @@ input[type=submit]:active {
 /*----------------------------------*/
 
 header {
-    background-image: -webkit-linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg2.jpg);
-    background-image: linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg2.jpg);
+    background-image: -webkit-linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg3.jpg);
+    background-image: linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg3.jpg);
     background-size: cover;
     background-position: center;
     height: 65vh;
@@ -420,8 +420,8 @@ header {
 
 .highlights-background {
     margin-bottom: 20px;
-    background-image: -webkit-linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg3.jpg);
-    background-image: linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg3.jpg);
+    background-image: -webkit-linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg2.jpg);
+    background-image: linear-gradient(rgba(1, 37, 49, 0.8), rgba(1, 37, 49, 0.8)), url(img/bg2.jpg);
     background-size: cover;
     background-position: center;
     height: 60vh;
